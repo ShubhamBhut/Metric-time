@@ -1,0 +1,11 @@
+.clock {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 200px;
+      font-size: 48px;
+    }
+
+    .clock div {
+      margin: 0 10px;
+    }
